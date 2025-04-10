@@ -15,7 +15,7 @@
 *En la pagina los usuarios podrán crear o participar de diferentes eventos deportivos. Los eventos pueden tener el formato de una copa o una liga, pueden ser públicos o privados y corresponden a un unico deporte que determinara si el evento se jugara en equipos o individualmente. Cada torneo cuenta con el seguimiento de sus partidos.*
 
 ### Modelo
-![imagen del modelo](https://drive.google.com/file/d/1rLOmxrh1j4mHgzxIYXLQlGZFy50Yy4i8/view?usp=sharing)
+![imagen del modelo](https://imgur.com/a/gMnbHYv)
 
 ## Alcance Funcional 
 
