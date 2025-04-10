@@ -3,7 +3,7 @@
 ## Grupo
 ### Integrantes
 * 52241 - Costamagna Mayol, Ricardo Luis
-* 52802 = Gil, Francisco Marcelo
+* 52802 - Gil, Francisco Marcelo
 * 52420 - Lovatti, Francisco
 * 53192 - Martinez, Lautaro
 
