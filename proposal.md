@@ -8,7 +8,8 @@
 * 53192 - Martinez, Lautaro
 
 ### Repositorios
-* [fullstack app](http://hyperlinkToGihubOrGitlab)
+* [frontend app]()
+* [backend app]()
 
 ## Tema
 ### Descripción
