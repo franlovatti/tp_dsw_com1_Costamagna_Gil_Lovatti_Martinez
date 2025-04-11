@@ -36,7 +36,7 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Participante<br>2. CRUD Deporte<br>3. CRUD Establecimiento<br>4. CRUD Evento<br>5. CRUD Partido<br>6. CRUD Equipo<br>7. CRUD Participacion<br>8. CRUD Noticia|
-|CUU/Epic|1. Inscribirse a evento<br>2. Crear Evento<br>3. Ingresar a equipo <br>4. |
+|CUU/Epic|1. Inscribirse a evento<br>2. Crear Evento<br>3. Ingresar a equipo <br>4. Expulsar equipo|
 
 
 ### Alcance Adicional Voluntario
