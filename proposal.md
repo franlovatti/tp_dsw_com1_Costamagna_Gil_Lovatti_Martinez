@@ -15,7 +15,8 @@
 *En la pagina los usuarios podrán crear o participar de diferentes eventos deportivos. Los eventos pueden tener el formato de una copa o una liga, pueden ser públicos o privados y corresponden a un unico deporte que determinara si el evento se jugara en equipos o individualmente. Cada torneo cuenta con el seguimiento de sus partidos.*
 
 ### Modelo
-https://imgur.com/a/gMnbHYv
+
+![GestorTorneos drawio (3)](https://github.com/user-attachments/assets/38c2778a-b625-4f30-a798-d854ae8f1787)
 
 ## Alcance Funcional 
 
