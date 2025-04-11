@@ -17,7 +17,7 @@
 
 ### Modelo
 
-![GestorTorneos drawio (4)](https://github.com/user-attachments/assets/7d71ddc7-bd14-4e00-8044-dd3d7a969baf)
+![GestorTorneos drawio (5)](https://github.com/user-attachments/assets/c8bd808b-aaba-4653-b33b-d859966bad0a)
 
 ## Alcance Funcional 
 
