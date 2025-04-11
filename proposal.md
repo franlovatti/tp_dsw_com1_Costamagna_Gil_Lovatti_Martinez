@@ -27,7 +27,7 @@ Regularidad:
 |:-|:-|
 |CRUD simple|1. CRUD Usuario<br>2. CRUD Deporte<br>3. CRUD Establecimiento<br>4. CRUD Evento|
 |CRUD dependiente|1. CRUD Partido {depende de Evento} <br>2. CRUD Equipo {depende de Evento} <br>3. CRUD Participacion {depende de Partido}|
-|Listado<br>+<br>detalle| 1. Listado de Participantes de un evento filtrado por equipo o cantidad de goles <br> 2. Listado de eventos filtrado por rango de fecha, deporte, modalidad o cantidad de participantes |
+|Listado<br>+<br>detalle| 1. Listado de Participantes de un evento filtrado por equipo o cantidad de puntos <br> 2. Listado de eventos filtrado por rango de fecha, deporte, modalidad o cantidad de participantes |
 |CUU/Epic|1. Inscribirse a evento <br>2. Crear un evento|
 
 
@@ -39,8 +39,6 @@ Adicionales para Aprobación
 
 
 ### Alcance Adicional Voluntario
-
-*Nota*: El Alcance Adicional Voluntario es opcional, pero ayuda a que la funcionalidad del sistema esté completa y será considerado en la nota en función de su complejidad y esfuerzo.
 
 |Req|Detalle|
 |:-|:-|
