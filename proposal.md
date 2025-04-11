@@ -1,6 +1,6 @@
 # Propuesta TP DSW
 
-## Grupo
+## Grupo Gestor de torneos deportivos
 ### Integrantes
 * 52241 - Costamagna Mayol, Ricardo Luis
 * 52802 - Gil, Francisco Marcelo
