@@ -29,14 +29,14 @@ Regularidad:
 |CRUD simple|1. CRUD Participante<br>2. CRUD Deporte<br>3. CRUD Establecimiento<br>4. CRUD Noticia|
 |CRUD dependiente|1. CRUD Partido {depende de Evento} <br>2. CRUD Equipo {depende de Evento} <br>3. CRUD Participacion {depende de Partido}<br>4. CRUD Evento {depende de Deporte}|
 |Listado<br>+<br>detalle| 1. Listado de Participantes de un evento filtrado por equipo o cantidad de puntos <br> 2. Listado de eventos filtrado por rango de fecha, deporte, modalidad o cantidad de participantes |
-|CUU/Epic|1. Inscribirse a evento <br>2. Crear un evento|
+|CUU/Epic|1. Inscribirse a evento <br>2. Publicar noticia|
 
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Participante<br>2. CRUD Deporte<br>3. CRUD Establecimiento<br>4. CRUD Evento<br>5. CRUD Partido<br>6. CRUD Equipo<br>7. CRUD Participacion<br>8. CRUD Noticia|
-|CUU/Epic|1. Inscribirse a evento<br>2. Crear Evento<br>3. Ingresar a equipo <br>4. Expulsar equipo|
+|CUU/Epic|1. Inscribirse a evento<br>2. Publicar noticia<br>3. Ingresar a equipo <br>4. Expulsar equipo|
 
 
 ### Alcance Adicional Voluntario
