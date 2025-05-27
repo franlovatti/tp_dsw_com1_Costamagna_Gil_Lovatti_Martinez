@@ -8,7 +8,7 @@
 * 53192 - Martinez, Lautaro
 
 ### Repositorios
-* [frontend app]()
+* [frontend app](https://github.com/franlovatti/Frontend_Costamagna_Gil_Lovatti_Martinez)
 * [backend app](https://github.com/franlovatti/Backend_Costamagna_Gil_Lovatti_Martinez)
 
 ## Tema
