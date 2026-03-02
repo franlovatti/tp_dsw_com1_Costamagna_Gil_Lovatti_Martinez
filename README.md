@@ -4,7 +4,7 @@ Repositorio central del trabajo práctico.
 
 Gestor de Torneos es una aplicación web full stack para crear, administrar y participar en torneos deportivos, con gestión de usuarios, equipos, partidos, noticias y estadísticas.
 
-![GestorTorneos](https://github.com/user-attachments/assets/c8bd808b-aaba-4653-b33b-d859966bad0a)
+![GestorTorneos](GestorTorneos.png)
 
 Este repositorio funciona como **punto de entrada** para acceder al frontend, backend y documentación del proyecto.
 
