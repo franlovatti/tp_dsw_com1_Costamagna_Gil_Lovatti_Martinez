@@ -46,4 +46,3 @@ Adicionales para Aprobación
 |Listados |1. Participaciones listadas por evento o por deporte|
 |CUU/Epic|1. Gestionar perfil de usuario|
 |Otros|1. Envío de solicitud de equipo por email|
-
