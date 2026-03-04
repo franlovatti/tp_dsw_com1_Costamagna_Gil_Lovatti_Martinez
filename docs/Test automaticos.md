@@ -20,6 +20,9 @@ cd C:/TP_dsw/Frontend_Costamagna_Gil_Lovatti_Martinez
 pnpm exec vitest --run src/test/api.test.ts
 ```
 
+**Evidencia de ejecución exitosa:**
+![Resultado test api](./images/test-api.png)
+
 #### 2. `src/test/convertirFechas.test.ts`
 Valida utilidades de fechas:
 - parseo de fechas válidas/inválidas
@@ -32,6 +35,9 @@ Valida utilidades de fechas:
 cd C:/TP_dsw/Frontend_Costamagna_Gil_Lovatti_Martinez
 pnpm exec vitest --run src/test/convertirFechas.test.ts
 ```
+
+**Evidencia de ejecución exitosa:**
+![Resultado test convertirFechas](./images/test-convertirFechas.png)
 
 ### Backend (Vitest - tests automáticos de controladores)
 
@@ -47,6 +53,9 @@ cd C:/TP_dsw/Backend_Costamagna_Gil_Lovatti_Martinez
 pnpm exec vitest --run src/test/evento.test.ts
 ```
 
+**Evidencia de ejecución exitosa:**
+![Resultado test evento](./images/test-evento.png)
+
 #### 4. `src/test/noticia.test.ts`
 Valida `NoticiaController`:
 - `findAll` exitoso (200)
@@ -58,6 +67,9 @@ Valida `NoticiaController`:
 cd C:/TP_dsw/Backend_Costamagna_Gil_Lovatti_Martinez
 pnpm exec vitest --run src/test/noticia.test.ts
 ```
+
+**Evidencia de ejecución exitosa:**
+![Resultado test noticia](./images/test-noticia.png)
 
 #### 5. `src/test/deporte.test.ts`
 Valida `DeporteController`:
@@ -71,6 +83,9 @@ cd C:/TP_dsw/Backend_Costamagna_Gil_Lovatti_Martinez
 pnpm exec vitest --run src/test/deporte.test.ts
 ```
 
+**Evidencia de ejecución exitosa:**
+![Resultado test deporte](./images/test-deporte.png)
+
 #### 6. `src/test/localidad.test.ts`
 Valida `LocalidadController` con casos mixtos:
 - `add` correcto (201)
@@ -82,6 +97,9 @@ Valida `LocalidadController` con casos mixtos:
 cd C:/TP_dsw/Backend_Costamagna_Gil_Lovatti_Martinez
 pnpm exec vitest --run src/test/localidad.test.ts
 ```
+
+**Evidencia de ejecución exitosa:**
+![Resultado test localidad](./images/test-localidad.png)
 
 ---
 
@@ -100,6 +118,9 @@ cd C:/TP_dsw/Frontend_Costamagna_Gil_Lovatti_Martinez
 pnpm exec vitest --run src/test/componentes.test.tsx
 ```
 
+**Evidencia de ejecución exitosa:**
+![Resultado test componentes](./images/test-componentes.png)
+
 ---
 
 ## 3) Tests de Integración (Front + Back)
@@ -115,6 +136,9 @@ Integra frontend real + backend real:
 cd C:/TP_dsw/Frontend_Costamagna_Gil_Lovatti_Martinez
 pnpm exec playwright test e2e/integracion-front-back.spec.ts
 ```
+
+**Evidencia de ejecución exitosa:**
+![Resultado e2e integración front-back](./images/e2e-integracion-front-back.png)
 
 > Requisitos: backend levantado en `http://localhost:3000` y frontend en `http://localhost:5173` (Playwright levanta frontend con `pnpm dev`, pero el backend debe estar corriendo).
 
@@ -135,6 +159,9 @@ cd C:/TP_dsw/Frontend_Costamagna_Gil_Lovatti_Martinez
 pnpm exec playwright test e2e/frontend.spec.ts
 ```
 
+**Evidencia de ejecución exitosa:**
+![Resultado e2e frontend](./images/e2e-frontend.png)
+
 ### 10. `e2e/flujos-principales.spec.ts`
 Suite amplia de flujos de negocio (login, torneos, filtros, navegación, perfil, logout, etc.).
 
@@ -143,6 +170,9 @@ Suite amplia de flujos de negocio (login, torneos, filtros, navegación, perfil,
 cd C:/TP_dsw/Frontend_Costamagna_Gil_Lovatti_Martinez
 pnpm exec playwright test e2e/flujos-principales.spec.ts
 ```
+
+**Evidencia de ejecución exitosa:**
+![Resultado e2e flujos principales](./images/e2e-flujos-principales.png)
 
 ---
 
