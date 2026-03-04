@@ -102,6 +102,7 @@ pnpm run test:run
 - Guía de tests: [docs/Test automaticos.md](docs/Test%20automaticos.md)
 - Tracking de features/bugs del Back: [docs/Tracking Backend.md](docs/Tracking%20Backend.md)
 - Tracking de features/bugs del Front: [docs/Tracking Frontend.md](docs/Tracking%20Frontend.md)
+- Video Presentacion: [docs/Video presentacion.md](docs/Video%20presentacion.md)
 
 ### Documentación técnica por servicio
 - Frontend: [../Frontend_Costamagna_Gil_Lovatti_Martinez/README.md](../Frontend_Costamagna_Gil_Lovatti_Martinez/README.md)
